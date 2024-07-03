@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Proiect_recuperare_Pop_LauraNicoleta</string>
+    <string name="dialog_titlu">Informatii Aplicatie</string>
+    <string name="dialog_mesaj">Aceasta este o aplicație Android destinată studenților,
+                                cadrelor didactice și vizitatorilor
+                                Academiei de Studii Economice din București.
+
+                                Dezvoltata de Pop Laura-Nicoleta
+                                Grupa 1094, Seria E, Anul III</string>
+</resources>

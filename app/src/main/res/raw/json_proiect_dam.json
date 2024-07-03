@@ -1,0 +1,91 @@
+{
+  "facultati": [
+    {
+      "id": 1,
+      "nume": "Facultatea de Administrarea Afacerilor",
+      "notite": "Facultatea cu focus pe administrarea afacerilor."
+    },
+    {
+      "id": 2,
+      "nume": "Facultatea CIG",
+      "notite": "Facultatea care oferă pregătire în contabilitate și informatică de gestiune."
+    },
+    {
+      "id": 3,
+      "nume": "Facultatea de Economie Teoretică și Aplicată",
+      "notite": "Facultatea specializată în economie teoretică și aplicată."
+    },
+    {
+      "id": 4,
+      "nume": "Facultatea de Management",
+      "notite": "Facultatea care pregătește studenți în management."
+    },
+    {
+      "id": 5,
+      "nume": "Facultatea CSIE",
+      "notite": "Facultatea specializată în cibernetică, statistică și informatică economică."
+    },
+    {
+      "id": 6,
+      "nume": "Facultatea de Drept",
+      "notite": "Facultatea care oferă studii în domeniul dreptului."
+    },
+    {
+      "id": 7,
+      "nume": "Facultatea de Marketing",
+      "notite": "Facultatea cu focus pe studii de marketing."
+    }
+  ],
+  "departamente": [
+    {
+      "id": 1,
+      "denumire": "Biblioteca ASE",
+      "notite": "Biblioteca principală a universității."
+    },
+    {
+      "id": 2,
+      "denumire": "Departamentul IT",
+      "notite": "Departamentul responsabil de tehnologia informației."
+    },
+    {
+      "id": 3,
+      "denumire": "Departamentul de Contabilitate",
+      "notite": "Departamentul pentru studii în contabilitate."
+    },
+    {
+      "id": 4,
+      "denumire": "Departamentul de Informatică Economică",
+      "notite": "Departamentul care oferă pregătire în informatică economică."
+    },
+    {
+      "id": 5,
+      "denumire": "Departamentul de Economie",
+      "notite": "Departamentul pentru studii economice."
+    },
+    {
+      "id": 6,
+      "denumire": "Departamentul de Analiză Economică",
+      "notite": "Departamentul specializat în analiza economică."
+    },
+    {
+      "id": 7,
+      "denumire": "Departamentul de Finanțe",
+      "notite": "Departamentul care oferă studii în domeniul finanțelor."
+    },
+    {
+      "id": 8,
+      "denumire": "Departamentul de Asigurări și Burse de Valori",
+      "notite": "Departamentul pentru studii în asigurări și burse de valori."
+    },
+    {
+      "id": 9,
+      "denumire": "Departamentul de Strategii și Politici Manageriale",
+      "notite": "Departamentul pentru studii în strategii și politici manageriale."
+    },
+    {
+      "id": 10,
+      "denumire": "Departamentul de Managementul Resurselor Umane",
+      "notite": "Departamentul care se ocupă cu managementul resurselor umane."
+    }
+  ]
+}
